@@ -1,0 +1,29 @@
+.card{
+    width: 22rem;
+    height: 32rem;
+    border: 2px black solid;
+    margin: 20px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card img{
+    width: 40%;
+}
+.name {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.Bio {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.Pro {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
